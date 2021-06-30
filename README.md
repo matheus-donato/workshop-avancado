@@ -1,27 +1,45 @@
 # Workshop data analytics e machine learning - modo avançado
 
-**Workshop** - quarta-feira 16h e 18h.
+**Workshop** - quarta-feira 16h.
 
 **Dúvidas** - quinta-feira
 
 ---
-## Referências Pytorch
+## Ferramentas
+
+### Pytorch
+
 
 
 
 ---
 
-## 1. Ferramentas Big Data 31/05
+## 1. Ferramentas Big Data 
 
 [Apresentação]()
 
 ---
-## 2. Fundamentos Deep Learning 07/06
+## 2. Fundamentos Deep Learning 
 
-
-
----
-## 9. Projeto aplicado 26/07
+[Apresentação](https://drive.google.com/file/d/1WLRFQXvEnLje2Vm0OUXiqP72S6Dd7GaA/view?usp=sharing)
 
 ---
-## 10. Projeto aplicado 02/08
+## 3. Exercício
+
+---
+## 4. Melhores práticas com dados tabulares
+
+---
+## 5. Exercício
+
+---
+## 6. Protótipos de aplicações e deployment
+
+---
+## 7. Exercício
+
+---
+## 9. Projeto aplicado 
+
+---
+## 10. Projeto aplicado 
